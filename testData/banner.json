@@ -1,0 +1,23 @@
+{
+	"code":0,
+	"msg":"业务信息",
+	"data":
+	  [
+		   {
+
+		   	"bannerUrl":"src/images/a-1.png"
+
+		   },
+
+		   {
+		   	 	"bannerUrl":"src/images/a-2.png"
+		   	},
+
+		   	{
+		   	   "bannerUrl":"src/images/a-3.png"
+		   	}
+
+
+	  ]	   	
+
+}
